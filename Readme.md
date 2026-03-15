@@ -225,7 +225,7 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding featu
 
 📖 **Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines**
 
-### Good First Issue
+### Good First Issues
 
 Looking for a place to start? Check out issues labeled:
 
